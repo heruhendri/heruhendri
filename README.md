@@ -57,8 +57,8 @@ Feel free to connect or collaborate!
 😄 **Pronouns:** he/him  
 ⚡ **Fun fact:** I love learning new programming languages and frameworks! -->
 
-# 💫 About Me:
-## Hi there 👋<br><br>Welcome to my GitHub profile! 🚀<br><br>I'm Heru Hendri, a passionate developer who loves building fun and useful projects.  <br>Check out my repositories for full project examples, including web apps, APIs, and more.<br><br>---
+<!-- # 💫 About Me:
+## Hi there 👋<br><br>Welcome to my GitHub profile! 🚀<br><br>I'm Heru Hendri, a passionate developer who loves building fun and useful projects.  <br>Check out my repositories for full project examples, including web apps, APIs, and more.<br><br>--- -->
 
 
 ## 🌐 Socials:
