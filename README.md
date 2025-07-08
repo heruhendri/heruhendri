@@ -2,6 +2,12 @@
 
 ## Hi there 👋
 ![Developer at work](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+## 🏆 Visitor Badge
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=heruhendri.heruhendri&"  />
+</div>
+
 <!-- 
 Welcome to my GitHub profile! 🚀
 
@@ -80,10 +86,7 @@ Feel free to connect or collaborate!
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heruhendri/heruhendri/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🏆 Visitor Badge
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=heruhendri.heruhendri&"  />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heruhendri&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
