@@ -7,8 +7,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'AM+NOC;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
-
-## 🏆 Visitor Badge
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=heruhendri.heruhendri&"  />
 </div>
